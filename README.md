@@ -8,13 +8,13 @@ Data source: www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGK&QO_fu146_an
 
 **Exploratory Data Analysis (EDA)**
 
-•	What is volume and percentage of arrival delays for each airline?
-•	Which are the most frequent routes with highest ratio of arrival delays?
-•	Which are the airports with highest ratio of arrival delays?
-•	How does the arrival delays ratio for intrastate flights compare to that of interstate flights?
-•	How do departure and arrival schedules influence arrival delays?
-•	Which is the most frequent reason for delay?
-•	Which is the most frequent reason for delay?
+- What is volume and percentage of arrival delays for each airline?
+- Which are the most frequent routes with highest ratio of arrival delays?
+- Which are the airports with highest ratio of arrival delays?
+- How does the arrival delays ratio for intrastate flights compare to that of interstate flights?
+- How do departure and arrival schedules influence arrival delays?
+- Which is the most frequent reason for delay?
+- Which is the most frequent reason for delay?
 
 **Models Implemented:**
 
